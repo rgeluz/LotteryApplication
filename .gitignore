@@ -1,0 +1,8 @@
+#ignore these folders
+build/
+nbproject/
+		
+#ignore these files
+.DS_Store
+build.xml
+manifest.mf
